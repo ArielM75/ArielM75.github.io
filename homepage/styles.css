@@ -1,0 +1,27 @@
+body {
+    background-color: FloralWhite;
+    text-align: center;
+
+  }
+  div{
+    margin-right: 450px;
+    margin-left: 450px;
+  }
+  p.big {
+    line-height: 1.8;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: inline;
+    background-color: hsl(120, 60%, 70%);
+  }
+  .container
+  {
+    width: 70% !important;
+  }
+  
